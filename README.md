@@ -50,8 +50,7 @@ until loop is the opposite of while loop. It takes a condition in the parenthesi
 Syntax:
 
 until (condition) 
-{
-   # Statements to be executed
+{ # Statements to be executed
 }
 
 Nested Loops
