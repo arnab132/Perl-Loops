@@ -39,7 +39,7 @@ Syntax:
 
 do {
 
-    # statments to be Executed
+ # statments to be Executed
 
 } while(condition);
 
@@ -71,10 +71,10 @@ for (init statement; condition; increment/decrement )
 Nested foreach loop
 foreach variable_1 (@array_1) {
 
-    foreach variable_2 (@array_2) 
+   foreach variable_2 (@array_2) 
    {
 
-       # Code to be Executed
+   # Code to be Executed
    } 
 }
 Nested while loop
@@ -89,15 +89,15 @@ Nested do..while loop
 do{
     do{
 
-        # Code to be Executed
+   # Code to be Executed
 
-       }while(condition);
+   }while(condition);
 
 }while(condition);
 Nested until loop
 until (condition) {
 
-    until (condition) 
+   until (condition) 
     {
        # Code to be Executed
     }
