@@ -69,9 +69,7 @@ Nested foreach loop
 foreach variable_1 (@array_1) {
 
    foreach variable_2 (@array_2) 
-   {
-
-   # Code to be Executed
+   { # Code to be Executed
    } 
 }
 Nested while loop
