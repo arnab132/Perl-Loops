@@ -65,6 +65,8 @@ for (init statement; condition; increment/decrement )
          # Code to be Executed
     }
 }
+
+
 Nested foreach loop
 foreach variable_1 (@array_1) {
 
@@ -72,6 +74,7 @@ foreach variable_1 (@array_1) {
    { # Code to be Executed
    } 
 }
+
 Nested while loop
 while (condition)
 {
@@ -80,6 +83,8 @@ while (condition)
         #Code to be Executed
     }
 }
+
+
 Nested do..while loop
 do{
     do{   #Code to be Executed
