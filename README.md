@@ -86,7 +86,7 @@ Nested do..while loop
 do{
     do{
 
-   # Code to be Executed
+   Code to be Executed
 
    }while(condition);
 
@@ -96,6 +96,6 @@ until (condition) {
 
    until (condition) 
     {
-       # Code to be Executed
+       Code to be Executed
     }
 }
