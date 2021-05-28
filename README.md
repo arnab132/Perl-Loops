@@ -84,9 +84,8 @@ while (condition)
 }
 Nested do..while loop
 do{
-    do{
-    #Code to be Executed
-
+    do{   #Code to be Executed
+    
    }while(condition);
 
 }while(condition);
