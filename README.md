@@ -38,9 +38,7 @@ A do..while loop is almost same as a while loop. The only difference is that do.
 Syntax:
 
 do {
-
- # statments to be Executed
-
+statments to be Executed
 } while(condition);
 
 until loop
